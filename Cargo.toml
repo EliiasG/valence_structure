@@ -7,4 +7,4 @@ edition = "2021"
 bincode = "1.3.3"
 serde = "1.0.203"
 valence = { git = "https://github.com/valence-rs/valence" }
-
+flume = "0.11.0"
